@@ -1,0 +1,6 @@
+Иванов И.И.;1;ivanov@ivanov.ru;5;5;5;5
+Петров П.П.;1;petrov@petrov.ru;4;4;4;4
+Сидоров С.С.;1;sidorov@sidorov.ru;3;3;3;3
+Иванов С.С.;1;ivanov@yandex.ru;5;2;3;4
+Петров И.И.;1;petrov@yandex.ru;3;4;5;4
+Сидоров П.П.;1;sidorov@yandex.ru;4;2;5;3
